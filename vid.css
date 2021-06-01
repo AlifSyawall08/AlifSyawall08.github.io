@@ -1,0 +1,16 @@
+#videoBG {
+    position:fixed;
+    z-index: -1;
+    top: 0%;
+    left: 0%;
+    translate: -50% , -50%;
+    width: 100%;
+    height: auto;
+    }
+   body {
+       background-color: darkgoldenrod;
+       background-size: cover;
+       background-repeat: no-repeat;
+       background-position: center;
+       border: 2px solid;
+   }
